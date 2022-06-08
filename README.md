@@ -45,4 +45,4 @@ $ npm run start:dev
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](License).
